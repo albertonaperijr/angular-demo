@@ -1,1 +1,1 @@
-# angular-sample2
+# angularjs-demo
